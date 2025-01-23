@@ -1,4 +1,4 @@
-# DevOps Interview Prep Guide – London, UK 🌍
+# DevOps Interview Prep Guide
 
 This guide is designed to help mid-level DevOps candidates prepare for roles in London's thriving tech ecosystem.  
 It covers essential skills, tools, and topics commonly tested in interviews, tailored to the needs of startups, FinTechs, and enterprises.
@@ -137,5 +137,3 @@ Have suggestions or improvements? Feel free to submit a pull request or open an 
 ---
 
 This guide is a living document. It will be updated regularly to reflect the latest industry trends and tools. Good luck with your interview preparation! 🚀
- devops-interview-prep
-A comprehensive guide for mid-level DevOps interview preparation tailored for the London tech market
